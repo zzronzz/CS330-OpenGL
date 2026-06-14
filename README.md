@@ -1,4 +1,4 @@
-#CS330 OpenGL Final Project
+##CS330 OpenGL Final Project
 
 
 This repository contains my final project for CS 330 Comp Graphics and Visualization. The project was created using C++ and OpenGL in Visual Studio 2022.
